@@ -21,7 +21,7 @@ Atom packages:
 
 Live Demo
 -
-Hosted on Heroku: [Link](https://pure-gorge-56360.herokuapp.com/)
+Hosted on Heroku: [Link](https://angadsalaria.github.io/as-auto-grid/)
 
 Usage
 -
